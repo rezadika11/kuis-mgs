@@ -1,0 +1,8 @@
+1. Bootstrap
+2. vue & React
+3. Axios
+4. GET = Untuk Meminta data dari sumber url
+   POST = mengirimkan data request ke server
+   PUT =  mengirim data ke server untuk membuat / memperbarui sumber daya
+   HEAD = meminta data tanpa body
+   DELETE = menghapus data di dalam server
